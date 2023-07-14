@@ -1,0 +1,11 @@
+fastapi==0.100.0
+pydantic==2.0.2
+azure-cosmos==4.4.0
+python-dotenv==0.21.0
+SQLAlchemy==1.4.31
+gremlinpython==3.6.4
+futures==3.0.5
+tornado==6.3.2
+uvicorn==0.22.0
+motor==3.1.2
+pymssql==2.2.7
